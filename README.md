@@ -15,3 +15,11 @@ Please report bugs and issues to <https://github.com/ISLEcode/AIT/issues>.
 ```
 
 For third party components included in the AIT framework we have, wherever possible, adapted the usage information to point to the correct issue tracker.
+
+
+[![Support via PayPal][paypal-svg]][paypal-url]
+
+  [paypal-svg]: https://github.com/ISLEcode/AIT/blob/master/.github/FUNDING.svg
+  [paypal-url]: https://www.paypal.me/marcastel
+
+<!-- vim: set nospell :-->
