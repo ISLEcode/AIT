@@ -7,7 +7,7 @@ This Github repository will house the releases and replaces ISLE's very old FTP 
 
 Don't expect the source code to be available here for some time though, because there is a lot of proprietary code to strip off and that can still take quite some time.
 
-This repository will also be used to [track issues](https://github.com/ISLEcode/AIT/issues) of the rejuvenated framework. So as to avoid any confusion as to when a program is an AIT component or not, we have addde the following signature to all usage outputs.
+This repository will also be used to [track issues](https://github.com/ISLEcode/AIT/issues) of the rejuvenated framework. So as to avoid any confusion as to when a program is an AIT component or not, we have added the following signature to all usage outputs.
 
 ```
 This utility is part of the AIT framework (Dragonfly core components).
