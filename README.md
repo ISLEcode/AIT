@@ -12,7 +12,6 @@ This repository will also be used to [track issues](https://github.com/ISLEcode/
 ```
 This utility is part of the AIT framework (Dragonfly core components).
 Please report bugs and issues to <https://github.com/ISLEcode/AIT/issues>.
-Copyright 1985-2019 (c) ISLE Switzerland SA and Jean-Michel Marcastel.
 ```
 
 For third party components included in the AIT framework we have, wherever possible, adapted the usage information to point to the correct issue tracker.
