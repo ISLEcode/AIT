@@ -22,4 +22,5 @@ For third party components included in the AIT framework we have, wherever possi
   [paypal-svg]: https://github.com/ISLEcode/AIT/blob/master/.github/FUNDING.svg
   [paypal-url]: https://www.paypal.me/marcastel
 
+
 <!-- vim: set nospell :-->
