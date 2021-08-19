@@ -3,7 +3,7 @@
 The AIT framework (previously called the *Dragonfly factory*) will be going public in 2022 after +30 odd years :-) 
 The Open Source edition will progressively replace all proprietary versions.
 
-This Github repository will house the releases and replaces ISLE's very old FTP server which will be put to definitive rest in 2022 (farewell to our last physical server still in operation on US grounds).
+This Github repository will house the releases and replaces ISLE's very old FTP server which has be put to a definitive rest in 2020 (farewell to our last physical server still in operation on US grounds).
 
 Don't expect the source code to be available here for some time though, because there is a lot of proprietary code to strip off and that can still take quite some time.
 
